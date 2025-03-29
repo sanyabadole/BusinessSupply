@@ -16,7 +16,7 @@ This system manages a business supply and delivery service that:
 
 The project is divided into four phases:
 
-- **Phase 1**: (Empty - Reserved for future use)
+- **Phase 1**: Schema Design
 - **Phase 2**: Database Schema Creation
   - Creates the core database structure
   - Defines tables for users, products, vans, locations, and services
