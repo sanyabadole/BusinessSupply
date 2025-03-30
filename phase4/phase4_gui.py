@@ -81,7 +81,7 @@ class BusinessSupplyCombinedGUI:
                 host="localhost",
                 port=3306,
                 user="root",
-                password="Bear@6833",
+                password="your password here",
                 database="business_supply"
             )
             self.cursor = self.conn.cursor()
