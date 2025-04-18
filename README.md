@@ -75,7 +75,7 @@ The project is divided into four phases:
 1. Navigate to the `phase3` directory
 2. Run the stored procedures script:
    ```bash
-   mysql -u your_username -p < attemptphase3.sql
+   mysql -u your_username -p < phase3.sql
    ```
 
 ### GUI Setup
